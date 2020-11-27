@@ -13,7 +13,7 @@ import java.nio.ByteOrder;
 public class FileWriter {
 	private static ArrayList<Byte> allBytes;
 	private static String filePath;
-	
+	//hi
 	public static ArrayList<Byte> readInputs(String fileName) {	
 		ArrayList<Byte> inputs = new ArrayList<Byte>();
 		filePath = fileName;
